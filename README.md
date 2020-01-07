@@ -1,4 +1,6 @@
-# operator
+# my portfolio site
+
+You can see it in action at [alec.work](https://alec.work).
 
 ## Project setup
 ```
